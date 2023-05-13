@@ -2,7 +2,7 @@
 Lua scripts developer
 
 Currently i'm learning JavaScript & React.  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,vscode)](https://skillicons.dev)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovnocodedByChapo&layout=compact)
 ## Contact
 [**VK**](https://vk.com/ya_chapo)  
