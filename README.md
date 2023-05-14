@@ -14,6 +14,6 @@ Currently i'm learning JavaScript & React.
 ## Contact
 * [**VK**](https://vk.com/ya_chapo)  
 * [**VK Group**](https://vk.com/chaposcripts)  
-* [**Telegram**](https://tg.me/ya_chapo)  
-* [**Telegram Channel**](https://tg.me/chaposcripts)  
+* [**Telegram**](https://t.me/ya_chapo)  
+* [**Telegram Channel**](https://t.me/chaposcripts)  
 * [**Discord Server**](https://discord.gg/pXybQUmejw)  
