@@ -10,7 +10,7 @@ Currently i'm learning JavaScript & React.
 [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/#229ED9"/>](https://t.me/chaposcripts)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/discord/#5865F2"/>](https://discord.gg/pXybQUmejw)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/#ff0000"/>](https://www.youtube.com/@ya_chapo)
-
+![Logo32](https://github.com/GovnocodedByChapo/GovnocodedByChapo/assets/82971106/32696bb9-906f-43a1-ad41-9cce3f0cef6b)  
 ## My Projects
 * (GTA:SA) [**vAcs**](https://www.blast.hk/threads/133752/) (50.000+ downloads)
 * (GTA:SA) [**Subway CJ (Subway Surfers in GTA:SA)**](https://www.blast.hk/threads/155704/) (1.000+ downloads)
@@ -18,3 +18,4 @@ Currently i'm learning JavaScript & React.
 * [**Custom Discord Rich Presence**](https://github.com/GovnocodedByChapo/custom-discord-rich-presence)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovnocodedByChapo&layout=compact)  
+
