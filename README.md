@@ -18,3 +18,7 @@ Currently i'm learning JavaScript & React.
 * [**Telegram Channel**](https://t.me/chaposcripts)  
 * [**Discord Server**](https://discord.gg/pXybQUmejw)  
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/vk.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/discord.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/steam.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/youtube.svg" />
