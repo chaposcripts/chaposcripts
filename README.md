@@ -10,7 +10,6 @@ Currently i'm learning JavaScript & React.
 [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/#229ED9"/>](https://t.me/chaposcripts)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/discord/#5865F2"/>](https://discord.gg/pXybQUmejw)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/#ff0000"/>](https://www.youtube.com/@ya_chapo)
-[<img height="32" width="32" src="https://github.com/GovnocodedByChapo/GovnocodedByChapo/assets/82971106/89bfcfe0-305a-463a-a5f6-0f0ebeae01c0"/>](https://www.youtube.com/@ya_chapo)
 
 ## My Projects
 * (GTA:SA) [**vAcs**](https://www.blast.hk/threads/133752/) (50.000+ downloads)
@@ -19,4 +18,3 @@ Currently i'm learning JavaScript & React.
 * [**Custom Discord Rich Presence**](https://github.com/GovnocodedByChapo/custom-discord-rich-presence)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovnocodedByChapo&layout=compact)  
-[[Logo32](https://github.com/GovnocodedByChapo/GovnocodedByChapo/assets/82971106/664ce1e6-c44a-49a2-9044-e2229eeabd5e)](https://vk.com)!
