@@ -17,9 +17,9 @@ Currently i'm learning JavaScript & React.
 * [**Telegram**](https://t.me/ya_chapo)  
 * [**Telegram Channel**](https://t.me/chaposcripts)  
 * [**Discord Server**](https://discord.gg/pXybQUmejw)  
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/vk/ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/vk/hotpink" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/discord.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/steam.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/youtube.svg" />
+[<img height="32" width="32" src="https://cdn.simpleicons.org/vk/white"/>](https://google.com)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/vk/white"/>](https://google.com)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/white"/>](https://google.com)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/white"/>](https://google.com)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/discord/white"/>](https://google.com)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/white"/>](https://google.com)
