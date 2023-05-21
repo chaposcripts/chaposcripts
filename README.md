@@ -19,3 +19,4 @@ Currently i'm learning JavaScript & React.
 * [**Custom Discord Rich Presence**](https://github.com/GovnocodedByChapo/custom-discord-rich-presence)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovnocodedByChapo&layout=compact)  
+[[Logo32](https://github.com/GovnocodedByChapo/GovnocodedByChapo/assets/82971106/664ce1e6-c44a-49a2-9044-e2229eeabd5e)](https://vk.com)!
