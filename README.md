@@ -3,7 +3,7 @@
 
 Currently i'm learning JavaScript & React.  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,lua,vscode)](https://skillicons.dev)  
-<img height="64" src="https://skillicons.dev/icons?i=js,ts,lua,vscode"/>
+<img height="32" src="https://skillicons.dev/icons?i=js,ts,lua,vscode"/>
 ## Contact
 [<img height="32" width="32" src="https://cdn.simpleicons.org/vk/white"/>](https://vk.com/ya_chapo)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/vk/white"/>](https://vk.com/chaposcripts)
