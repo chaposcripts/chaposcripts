@@ -2,7 +2,7 @@
 **Hello, i'm Chapo a.k.a Dmitriy** - Lua scripts developer
 
 Currently i'm learning JavaScript & React.  
-[![My Skills](https://skillicons.dev/icons?i=lua,vscode)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,vscode)](https://skillicons.dev)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovnocodedByChapo&layout=compact)  
 
 ## My Projects
