@@ -1,9 +1,8 @@
 # 👋🏻 Hi, i'm chapo!
 **Hello, i'm Chapo a.k.a Dmitriy** - Lua scripts developer
 
-Currently i'm learning JavaScript & React.  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,vscode)](https://skillicons.dev)  
-<img height="32" src="https://skillicons.dev/icons?i=js,ts,lua,vscode"/>
+Currently i'm learning JavaScript & React.   
+<img height="32" src="https://skillicons.dev/icons?i=js,ts,lua,vscode"/>  
 ## Contact
 [<img height="32" width="32" src="https://cdn.simpleicons.org/vk/white"/>](https://vk.com/ya_chapo)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/vk/white"/>](https://vk.com/chaposcripts)
