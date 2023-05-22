@@ -10,6 +10,7 @@ Currently i'm learning JavaScript & React.
 [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/#229ED9"/>](https://t.me/chaposcripts)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/discord/#5865F2"/>](https://discord.gg/pXybQUmejw)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/#ff0000"/>](https://www.youtube.com/@ya_chapo)
+[<img height="32" width="32" src="https://www.blast.hk/styles/io_dark/images/blasthack/logo_b_new.png"/>](https://www.blast.hk/members/112329/)
 
 ## My Projects
 * (GTA:SA) [**vAcs**](https://www.blast.hk/threads/133752/) (50.000+ downloads)
