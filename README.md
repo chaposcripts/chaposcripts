@@ -1,5 +1,5 @@
 # 👋🏻 Hi, i'm chapo!
-**Hello, i'm Chapo a.k.a Dmitriy** - Lua scripts developer
+**Hello, i'm Chapo a.k.a Dima**
 
 Currently i'm learning JavaScript & React.   
 <img height="32" src="https://skillicons.dev/icons?i=js,ts,lua,vscode"/>  
