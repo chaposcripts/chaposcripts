@@ -1,8 +1,8 @@
 # 👋🏻 Hi, i'm chapo!
 **Hello, i'm Chapo a.k.a Dima**
 
-Currently i'm learning JavaScript & React.   
-<img height="32" src="https://skillicons.dev/icons?i=js,ts,lua,vscode"/>  
+Currently i'm learning JavaScript & React and Go.   
+<img height="32" src="https://skillicons.dev/icons?i=js,ts,lua,vscode,go"/>  
 ## Contact
 [<img height="32" width="32" src="https://cdn.simpleicons.org/vk/#0077FF"/>](https://vk.com/ya_chapo)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/vk/#0077FF"/>](https://vk.com/chaposcripts)
