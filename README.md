@@ -3,14 +3,9 @@
 
 Currently i'm learning JavaScript & React and Go.   
 <img height="32" src="https://skillicons.dev/icons?i=js,ts,lua,vscode,go"/>  
-## Contact
-[<img height="32" width="32" src="https://cdn.simpleicons.org/vk/#0077FF"/>](https://vk.com/ya_chapo)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/vk/#0077FF"/>](https://vk.com/chaposcripts)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/#229ED9"/>](https://t.me/ya_chapo)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/#229ED9"/>](https://t.me/chaposcripts)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/discord/#5865F2"/>](https://discord.gg/pXybQUmejw)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/youtube/#ff0000"/>](https://www.youtube.com/@ya_chapo)
-[<img height="32" width="32" src="https://www.blast.hk/styles/io_dark/images/blasthack/logo_b_new.png"/>](https://www.blast.hk/members/112329/)
+## Contacts
+[**Telegram**](https://t.me/moujeek)
+[**Telegram Channel**](https://t.me/chaposcripts)
 
 ## My Projects
 * (GTA:SA) [**vAcs**](https://www.blast.hk/threads/133752/) (50.000+ downloads)
