@@ -1,5 +1,5 @@
 # 👋🏻 Hi, i'm chapo!
-**Hello, i'm Chapo a.k.a Dima**
+**Hello, i'm Chapo a.k.a moujeek a.k.a Dmitry**
 
 Currently i'm learning JavaScript & React and Go.   
 <img height="32" src="https://skillicons.dev/icons?i=go,js,ts,lua,vscode"/>  
