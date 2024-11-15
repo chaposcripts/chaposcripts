@@ -1,6 +1,5 @@
 # 👋🏻 Hi, i'm chapo!
 **Hello, i'm Chapo a.k.a moujeek a.k.a Dmitry**
-
 Currently i'm learning JavaScript & React and Go.   
 <img height="32" src="https://skillicons.dev/icons?i=go,js,ts,lua,vscode"/>  
 ## Contacts
@@ -8,6 +7,7 @@ Currently i'm learning JavaScript & React and Go.
 [**Telegram Channel**](https://t.me/chaposcripts)
 
 ## My Projects
+* [**Dota2 Discord Rich Presence**](https://github.com/chaposcripts/go-dota2-discord-rich-presence)
 * (GTA:SA) [**vAcs**](https://www.blast.hk/threads/133752/) (50.000+ downloads)
 * (GTA:SA) [**Subway CJ (Subway Surfers in GTA:SA)**](https://www.blast.hk/threads/155704/) (1.000+ downloads)
 * (GTA:SA) [**Visual Test Drive**](https://www.blast.hk/threads/109617/) (1.000+ downloads)
