@@ -1,0 +1,59 @@
+body {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.info {
+    background-image: linear-gradient(rgba(17, 17, 17, 0) 0%, rgba(17, 17, 17, 1) 85%), url("https://moujeek.ru/static/media/1.cf1925816ec7f2bfc51f.jpg");
+    background-size: cover;
+    border-radius: 10px 0px 0px 10px;
+    height: 100%;
+    width: 320px;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.hello {
+    font-size: 20px;
+}
+
+.im {
+    font-size: 32px;
+}
+
+.description {
+    color: #A5A5A5;
+}
+
+.tabs {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.title {
+    text-align: left;
+    position: relative;
+}
+
+.skills {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
