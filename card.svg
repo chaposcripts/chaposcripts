@@ -1,9 +1,9 @@
 <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="600" height="300">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <!-- BEGIN HTML -->
-        <style>
-* {
+<!--    BEGIN HTML      -->
+    <style>
+        * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
 }
@@ -72,8 +72,8 @@
 .skills img {
     border-radius: 5px;
 }
-        </style>
-        <div class="container">
+    </style>
+   <div class="container">
         <div class="avatar"></div>
         <div class="about">
             <div class="labels">
@@ -81,18 +81,12 @@
                 <a class="name">I'm <b>Dmitry</b>!</a>
                 <a class="bio"><b>20</b> y.o. developer from <b>Moscow, Russia</b>. Currently i'm learning Lua, Go, JavaScript and TypeScript.</a>
             </div>
-            <br>
-            <b class="skils-tag">My skills</b>
-            <div class="skills">
-                <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-                <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-            </div>
+           
+            
         </div>
     </div>
-        <!-- END HTML -->
+
+<!--    END HTML      -->
     </div>
 </foreignObject>
 </svg>
