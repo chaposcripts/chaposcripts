@@ -1,10 +1,61 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
+        <div
+    class="container"
+    style="
+        display: flex;
+        flex-direction: row;
+        background-color: rgba(0, 0, 0, 0.5);
+        width: 600px;
+        height: 250px;
+        border-radius: 10px;
+    "
+>
+    <div
+        style="
+            height: 250px;
+            width: 240px;
+            background-image: url(https://moujeek.ru/static/media/1.cf1925816ec7f2bfc51f.jpg);
+            background-size: cover;
+            background-position: center;
+            border-radius: 10px 0px 0px 10px;
+    "></div>
+    <div
+        style="
+            flex-grow: 1;
+            color: white;
+            /* background-color: blue; */
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            padding: 10px 0px 0px 10px;
+        ">
+        <a style="font-size: 20px;">рџ‘‹ Hey there!</a>
+        <a style="font-size: 24px;">I'm <b>Dmitry</b>!</a>
+        <a style="font-size: 14px;">20В y.o. developer fromВ Moscow,В Russia. Currently iвЂ™m learningВ Lua,В Go,В JavaScriptВ andВ TypeScript.</a>    
+        <b>My skills</b>
+        <div style="
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        ">
+            
+        </div>
+        <b>Contact me</b>
+        <div style="
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        ">
+           
+        </div>
+    </div>
+</div>
     </div>
 </foreignObject>
 </svg>
