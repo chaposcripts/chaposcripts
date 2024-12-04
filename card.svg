@@ -1,61 +1,98 @@
 <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="600" height="300">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <div
-    class="container"
-    style="
-        display: flex;
-        flex-direction: row;
-        background-color: rgba(0, 0, 0, 0.5);
-        width: 600px;
-        height: 250px;
-        border-radius: 10px;
-    "
->
-    <div
-        style="
-            height: 250px;
-            width: 240px;
-            background-image: url(https://moujeek.ru/static/media/1.cf1925816ec7f2bfc51f.jpg);
-            background-size: cover;
-            background-position: center;
-            border-radius: 10px 0px 0px 10px;
-    "></div>
-    <div
-        style="
-            flex-grow: 1;
-            color: white;
-            /* background-color: blue; */
-            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            display: flex;
-            flex-direction: column;
-            padding: 10px 0px 0px 10px;
-        ">
-        <a style="font-size: 20px;">рџ‘‹ Hey there!</a>
-        <a style="font-size: 24px;">I'm <b>Dmitry</b>!</a>
-        <a style="font-size: 14px;">20В y.o. developer fromВ Moscow,В Russia. Currently iвЂ™m learningВ Lua,В Go,В JavaScriptВ andВ TypeScript.</a>    
-        <b>My skills</b>
-        <div style="
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-        ">
-            
-        </div>
-        <b>Contact me</b>
-        <div style="
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-        ">
-           
+        <!-- BEGIN HTML -->
+        <style>
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.container {
+    width: 600px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar {
+    width: 200px;
+    height: 300px;
+    background-image: url(https://moujeek.ru/static/media/1.cf1925816ec7f2bfc51f.jpg);
+    background-size: cover;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.about {
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: beige; */
+}
+
+.hello {
+    font-size: 20px;
+}
+
+.name {
+    font-size: 24px;
+}
+
+.bio {
+    font-size: 14px;
+    color: gray;
+}
+
+.labels {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills-tag {
+    text-align: center;
+    margin: auto;
+}
+
+.skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.skills img {
+    border-radius: 5px;
+}
+        </style>
+        <div class="container">
+        <div class="avatar"></div>
+        <div class="about">
+            <div class="labels">
+                <a class="hello">👋 Hey there!</a>
+                <a class="name">I'm <b>Dmitry</b>!</a>
+                <a class="bio"><b>20</b> y.o. developer from <b>Moscow, Russia</b>. Currently i'm learning Lua, Go, JavaScript and TypeScript.</a>
+            </div>
+            <br>
+            <b class="skils-tag">My skills</b>
+            <div class="skills">
+                <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+                <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+            </div>
         </div>
     </div>
-</div>
+        <!-- END HTML -->
     </div>
 </foreignObject>
 </svg>
