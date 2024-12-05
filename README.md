@@ -8,6 +8,11 @@ Currently i’m learning **Lua**, **Go**, **JavaScript** and **TypeScript**.
 
 ## Skills
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<a href="https://www.blast.hk/members/112329/">
+  <img src="https://moujeek.ru/api/blasthack-profile-card?profileId=112329"/>
+</a>
+
 <div style="display: flex; flex-direction: row;">
   <img height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaposcripts&layout=pie&theme=nord&hide_border=true"/>
   <img height="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=chapo&layout=compact&theme=nord&hide_border=true"/>
