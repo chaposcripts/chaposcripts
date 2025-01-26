@@ -1,13 +1,6 @@
-```stl
-solid stlmesh
-facet normal 0.9623954032815304 -3.009591081705396e-8 0.2716525128589457
-endfacet
-```
-
 ## 👋 Hey there, i’m Dmitry!
 **20** y.o. developer from **Moscow**, **Russia**.  
-Currently i’m learning **Lua**, **Go**, **JavaScript** and **TypeScript**.
-
+Currently i’m learning **Go**, and **TypeScript**.
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moujeek) [![Instagram](https://img.shields.io/badge/instagram-%23FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moujeek) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ya_chapo)  [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cJN2YU9zQg)
